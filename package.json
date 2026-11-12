@@ -1,0 +1,9 @@
+{
+  "name": "clearweb-garage",
+  "version": "0.1.0",
+  "private": true,
+  "description": "The Garage — a tiny Clear Web experiment.",
+  "scripts": {
+    "dev": "npx --yes serve . -p 3000"
+  }
+}
